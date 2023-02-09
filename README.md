@@ -1,2 +1,2 @@
 # Gage's Repository!
- Demonstrating my newfound ability to use Git.
+Messing around with Github.
